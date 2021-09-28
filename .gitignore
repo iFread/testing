@@ -1,4 +1,8 @@
 main.cpp
 *.o
 *.out
+build-*
+.pro
+Makefile
+
 
