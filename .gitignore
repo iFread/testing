@@ -2,7 +2,8 @@ main.cpp
 *.o
 *.out
 build-*
-.pro
+*.pro
 Makefile
-
-
+*.pro.user
+calculator
+*stash
